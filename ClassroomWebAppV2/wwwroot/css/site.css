@@ -1,0 +1,98 @@
+html {
+    font-size: 14px;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+    box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+    background-color: #cecece;
+}
+
+.navbar-nav {
+    min-height: 45px;
+}
+
+.nav-item {
+    font-size: 20px;
+    a: hover
+
+{
+    border-bottom: 1px solid green;
+    transform: scale(0.95);
+}
+
+}
+}
+
+#myFooter {
+    background-color: #fff;
+}
+
+.welcome-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.welcome {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 4vw;
+    text-align: center;
+    justify-content: center;
+}
+
+.create-new-homework a {
+    color: green;
+    font-size: 1.3rem;
+    text-decoration: none;
+    margin-top: 1em;
+    display: inline-block;
+    font-weight: bold;
+    padding: .5em;
+    margin-left: -.5em;
+    position: relative;
+    clip-path: polygon(0 0, 100% 0, 100% 100%, 0% 100%);
+    &:before, &:after
+
+{
+    position: absolute;
+    content: '';
+    border-bottom: 3px solid green;
+    border-radius: 1em;
+    bottom: .3em;
+    transition: transform .5s cubic-bezier(0.075, 0.82, 0.165, 1);
+}
+
+&:before {
+    width: 1em;
+    transform-origin: left;
+}
+
+&:after {
+    width: 82%;
+    left: 1em;
+    transform: translateX(110%);
+}
+
+&:hover:before {
+    transform: scaleX(0.3);
+}
+
+&:hover:after {
+    transform: translateX(0);
+}
+}

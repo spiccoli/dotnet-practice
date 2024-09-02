@@ -1,0 +1,233 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\santi\\source\\repos\\ClassroomWebAppV2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5DF64C19-8B8F-447B-AF88-BD097D2B2945}|ClassroomWebAppV2.csproj|c:\\users\\santi\\source\\repos\\classroomwebappv2\\models\\homework.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DF64C19-8B8F-447B-AF88-BD097D2B2945}|ClassroomWebAppV2.csproj|solutionrelative:models\\homework.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DF64C19-8B8F-447B-AF88-BD097D2B2945}|ClassroomWebAppV2.csproj|c:\\users\\santi\\source\\repos\\classroomwebappv2\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DF64C19-8B8F-447B-AF88-BD097D2B2945}|ClassroomWebAppV2.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DF64C19-8B8F-447B-AF88-BD097D2B2945}|ClassroomWebAppV2.csproj|c:\\users\\santi\\source\\repos\\classroomwebappv2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5DF64C19-8B8F-447B-AF88-BD097D2B2945}|ClassroomWebAppV2.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DF64C19-8B8F-447B-AF88-BD097D2B2945}|ClassroomWebAppV2.csproj|c:\\users\\santi\\source\\repos\\classroomwebappv2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DF64C19-8B8F-447B-AF88-BD097D2B2945}|ClassroomWebAppV2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DF64C19-8B8F-447B-AF88-BD097D2B2945}|ClassroomWebAppV2.csproj|c:\\users\\santi\\source\\repos\\classroomwebappv2\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5DF64C19-8B8F-447B-AF88-BD097D2B2945}|ClassroomWebAppV2.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DF64C19-8B8F-447B-AF88-BD097D2B2945}|ClassroomWebAppV2.csproj|c:\\users\\santi\\source\\repos\\classroomwebappv2\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5DF64C19-8B8F-447B-AF88-BD097D2B2945}|ClassroomWebAppV2.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DF64C19-8B8F-447B-AF88-BD097D2B2945}|ClassroomWebAppV2.csproj|c:\\users\\santi\\source\\repos\\classroomwebappv2\\views\\homework\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5DF64C19-8B8F-447B-AF88-BD097D2B2945}|ClassroomWebAppV2.csproj|solutionrelative:views\\homework\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DF64C19-8B8F-447B-AF88-BD097D2B2945}|ClassroomWebAppV2.csproj|c:\\users\\santi\\source\\repos\\classroomwebappv2\\views\\homework\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5DF64C19-8B8F-447B-AF88-BD097D2B2945}|ClassroomWebAppV2.csproj|solutionrelative:views\\homework\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DF64C19-8B8F-447B-AF88-BD097D2B2945}|ClassroomWebAppV2.csproj|c:\\users\\santi\\source\\repos\\classroomwebappv2\\views\\homework\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5DF64C19-8B8F-447B-AF88-BD097D2B2945}|ClassroomWebAppV2.csproj|solutionrelative:views\\homework\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DF64C19-8B8F-447B-AF88-BD097D2B2945}|ClassroomWebAppV2.csproj|c:\\users\\santi\\source\\repos\\classroomwebappv2\\views\\homework\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5DF64C19-8B8F-447B-AF88-BD097D2B2945}|ClassroomWebAppV2.csproj|solutionrelative:views\\homework\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DF64C19-8B8F-447B-AF88-BD097D2B2945}|ClassroomWebAppV2.csproj|c:\\users\\santi\\source\\repos\\classroomwebappv2\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5DF64C19-8B8F-447B-AF88-BD097D2B2945}|ClassroomWebAppV2.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DF64C19-8B8F-447B-AF88-BD097D2B2945}|ClassroomWebAppV2.csproj|c:\\users\\santi\\source\\repos\\classroomwebappv2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5DF64C19-8B8F-447B-AF88-BD097D2B2945}|ClassroomWebAppV2.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DF64C19-8B8F-447B-AF88-BD097D2B2945}|ClassroomWebAppV2.csproj|c:\\users\\santi\\source\\repos\\classroomwebappv2\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5DF64C19-8B8F-447B-AF88-BD097D2B2945}|ClassroomWebAppV2.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Homework.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\source\\repos\\ClassroomWebAppV2\\Models\\Homework.cs",
+              "RelativeDocumentMoniker": "Models\\Homework.cs",
+              "ToolTip": "C:\\Users\\santi\\source\\repos\\ClassroomWebAppV2\\Models\\Homework.cs",
+              "RelativeToolTip": "Models\\Homework.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T13:05:31.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\source\\repos\\ClassroomWebAppV2\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\santi\\source\\repos\\ClassroomWebAppV2\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T13:05:30.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\santi\\source\\repos\\ClassroomWebAppV2\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\santi\\source\\repos\\ClassroomWebAppV2\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-02T13:05:20.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\source\\repos\\ClassroomWebAppV2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\santi\\source\\repos\\ClassroomWebAppV2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T13:03:59.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\santi\\source\\repos\\ClassroomWebAppV2\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\santi\\source\\repos\\ClassroomWebAppV2\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T13:03:57.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\santi\\source\\repos\\ClassroomWebAppV2\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\santi\\source\\repos\\ClassroomWebAppV2\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T13:03:57.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\santi\\source\\repos\\ClassroomWebAppV2\\Views\\Homework\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Homework\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\santi\\source\\repos\\ClassroomWebAppV2\\Views\\Homework\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Homework\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T13:03:54.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\santi\\source\\repos\\ClassroomWebAppV2\\Views\\Homework\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Homework\\Details.cshtml",
+              "ToolTip": "C:\\Users\\santi\\source\\repos\\ClassroomWebAppV2\\Views\\Homework\\Details.cshtml",
+              "RelativeToolTip": "Views\\Homework\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T13:03:54.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\santi\\source\\repos\\ClassroomWebAppV2\\Views\\Homework\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Homework\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\santi\\source\\repos\\ClassroomWebAppV2\\Views\\Homework\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Homework\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T13:03:52.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\santi\\source\\repos\\ClassroomWebAppV2\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\santi\\source\\repos\\ClassroomWebAppV2\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T13:03:51.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\santi\\source\\repos\\ClassroomWebAppV2\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\santi\\source\\repos\\ClassroomWebAppV2\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-15T14:54:23.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\santi\\source\\repos\\ClassroomWebAppV2\\Views\\Homework\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Homework\\Index.cshtml",
+              "ToolTip": "C:\\Users\\santi\\source\\repos\\ClassroomWebAppV2\\Views\\Homework\\Index.cshtml",
+              "RelativeToolTip": "Views\\Homework\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-15T15:56:49.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\santi\\source\\repos\\ClassroomWebAppV2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\santi\\source\\repos\\ClassroomWebAppV2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-15T14:33:31.752Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
